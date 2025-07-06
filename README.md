@@ -32,4 +32,22 @@ The following diagram illustrates the high-level architecture of the pipeline:
 4. **Serving Layer**: Transformed data is stored and queried via Synapse.
 5. **Reporting**: Power BI connects to Synapse for real-time dashboards.
 
----
+## 📊 Sample Data
+
+This project uses sample CSV data files for demonstration and testing purposes. These files represent the raw data ingested through the pipeline.
+
+### 🔹 Data Files
+
+The following CSV files are included in the `/data` folder:
+
+- `AdventureWorks_Calendar.csv`
+- `AdventureWorks_Customers.csv`
+- `AdventureWorks_Product_Categories.csv`
+- `AdventureWorks_Product_Subcategories.csv`
+- `AdventureWorks_Products.csv`
+- `AdventureWorks_Returns.csv`
+- `AdventureWorks_Sales_2015.csv`
+- `AdventureWorks_Sales_2016.csv`
+- `AdventureWorks_Sales_2017.csv`
+- `AdventureWorks_Territories.csv`
+
