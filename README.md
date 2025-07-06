@@ -9,7 +9,7 @@ This project demonstrates an end-to-end data pipeline architecture using various
 
 The following diagram illustrates the high-level architecture of the pipeline:
 
-![Azure Data Pipeline Architecture]()
+![Azure Data Pipeline Architecture](https://github.com/123Vasu/Azure-End-to-End-Project/blob/main/Azure%20End%20to%20End%20Project.drawio.png?raw=true)
 
 ---
 
